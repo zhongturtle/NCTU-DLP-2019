@@ -4,3 +4,4 @@
 ## Lab0 Warm-up
 ## Lab1 Backpropagation
 ## Lab2 EEG classfication Assignment
+## Lab3 ResNet
