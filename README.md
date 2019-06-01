@@ -6,3 +6,4 @@
 ## Lab2 EEG classfication Assignment
 ## Lab3 ResNet
 ## Lab4 BPTT
+## Lab5 CVAE
