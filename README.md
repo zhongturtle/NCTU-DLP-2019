@@ -7,3 +7,4 @@
 ## Lab3 ResNet
 ## Lab4 BPTT
 ## Lab5 CVAE
+## Lab6 info
